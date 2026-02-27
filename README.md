@@ -1,2 +1,4 @@
 # sql-data-warehouse-project
 Building a data warehouse with SQL Server 
+
+01.07.00
